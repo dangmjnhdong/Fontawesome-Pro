@@ -14,3 +14,8 @@
 ```bash
 https://cdn.jsdelivr.net/gh/dangmjnhdong/Fontawesome-Pro/moeblog.png
 ```
+
+### Music
+```bash
+https://cdn.jsdelivr.net/gh/dangmjnhdong/Fontawesome-Pro/music/hbt.mp3
+```
