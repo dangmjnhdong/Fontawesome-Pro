@@ -26,3 +26,8 @@ https://cdn.jsdelivr.net/gh/dangmjnhdong/Fontawesome-Pro/music/hbt.mp3
 ```bash
 https://cdn.jsdelivr.net/gh/dangmjnhdong/Fontawesome-Pro/pdf/###
 ```
+
+### Wallpaper
+```bash
+https://cdn.jsdelivr.net/gh/dangmjnhdong/Fontawesome-Pro/wallpaper/mobile/
+```
